@@ -24,7 +24,7 @@ private JLabel label11 = new JLabel(" нопка информации добавлена");
 
 private JLabel label4 = new JLabel("ћухамедь€ров ¬адим јсхатович ");
 private JLabel label6 = new JLabel(" алганова  сени€ јлексеевна ");
-private JLabel label8 = new JLabel("якупов ядгар √алимович ");
+private JLabel label8 = new JLabel("якупов ядгар √алимович yadgar2046@gmail.com");
 private JLabel label9 = new JLabel("”фимский государственный авиационный технический университетї");
 private JLabel label10= new JLabel();
 private JButton Switch = new JButton("перевод в см в кубе");
