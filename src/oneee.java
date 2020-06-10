@@ -24,7 +24,7 @@ private JButton button2 = new JButton("Информация");
 private JLabel label11 = new JLabel("Кнопка информации добавлена");
 
 private JLabel label4 = new JLabel("Мухамедьяров Вадим Асхатович nuvare1@gmail.com");
-private JLabel label6 = new JLabel("Калганова Ксения Алексеевна ");
+private JLabel label6 = new JLabel("Калганова Ксения Алексеевна ksushakalganova2000@mail.ru");
 private JLabel label8 = new JLabel("Якупов Ядгар Галимович yadgar2046@gmail.com");
 private JLabel label9 = new JLabel("Уфимский государственный авиационный технический университет»");
 private JLabel label10= new JLabel();
