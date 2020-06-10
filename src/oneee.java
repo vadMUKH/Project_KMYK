@@ -18,7 +18,8 @@ private JButton button = new JButton("Расчёт");
 private JButton button1 = new JButton("Кнопка");
 private JLabel fbo = new JLabel("«ФГБОУ ВО»");
 private JLabel label = new JLabel("ПИ-220");
-private JLabel label2 = new JLabel("Косарев Антон Вадимович ");
+private JLabel label2 = new JLabel("Косарев Антон Вадимович : toxa1015@gmail.com ");
+
 private JButton button2 = new JButton("Информация");
 private JLabel label11 = new JLabel("Кнопка информации добавлена");
 
@@ -44,10 +45,11 @@ Switch.addActionListener(new ButtonEventListener1());
 button2.addActionListener(new ButtonEventListener2());
 setContentPane(new BgPanel());
 Container container = this.getContentPane();
-container.setLayout(new GridLayout(15,2,2,2));
+container.setLayout(new GridLayout(17,2,2,2));
 container.add(fbo);
 container.add(label);
 container.add(label2);
+
 container.add(label4);
 container.add(label6);
 container.add(label8);
